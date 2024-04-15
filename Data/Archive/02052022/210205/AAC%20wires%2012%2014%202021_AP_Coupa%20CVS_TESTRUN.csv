@@ -1,0 +1,36 @@
+﻿Invoice,Invoice Number,Supplier Number,Invoice Date,Line Level Taxation,Chart of Accounts,Currency,Remit To Code,Submit For Approval?,China Paper Invoice Received?,Tax Code,Shipping Amount,AP Owner,Doc Header Text,Vendor Line item text
+Invoice Line,Invoice Number,Supplier Number,Description," Price ",Quantity,Line Tax Amount,Account Code,Line Tax Rate,Unit of Measure,Line Tax Code,IC Company Code,IC Cost Center,Service Start Date,Delivery/Service End Date
+Invoice,AAC 12/14/21,101631_1005,12/14/2021," No ",1005_US,USD,101631_PB__5777,Yes,,,,Kali,AT&T AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,620.84,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,102509_1005,12/14/2021," No ",1005_US,USD,102509_PB__2767,Yes,,,,Kali,Ericsson AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,778.04,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,102101_1005,12/14/2021," No ",1005_US,USD,102101_PB__9137,Yes,,,,Kali,ETRI AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,145956.25,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,112217_1005,12/14/2021," No ",1005_US,USD,112217_PB__9004,Yes,,,,Kali,JVC Kenwood AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,284769.15,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101777_1005,12/14/2021," No ",1005_US,USD,101777_PB__1001,Yes,,,,Kali,Philips AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,6319945.1,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,102429_1005,12/14/2021," No ",1005_US,USD,102429_PB_ROYL_3512,Yes,,,,Kali,Microsoft AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,747203.37,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101646_1005,12/14/2021," No ",1005_US,USD,101646_PB__8008,Yes,,,,Kali,NEC AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,1955261.93,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101966_1005,12/14/2021," No ",1005_US,USD,101966_PB__0878,Yes,,,,Kali,Nippon Telegr AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,31715.86,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101668_1005,12/14/2021," No ",1005_US,USD,101668_PB__9555,Yes,,,,Kali,NTT DoCoMo AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,200556.26,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,107364_1005,12/14/2021," No ",1005_US,USD,107364_PB_VIA_0053,Yes,,,,Kali,Orange AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,799418.5,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,102146_1005,12/14/2021," No ",1005_US,USD,102146_PB_USD_6060,Yes,,,,Kali,Panasonic AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,2725385.11,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101588_1005,12/14/2021," No ",1005_US,USD,101588_PB_AAC_9039,Yes,,,,Kali,Samsung AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,1373516.43,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101462_1005,12/14/2021," No ",1005_US,USD,101462_PB_5682_5682,Yes,,,,Kali,Sony AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,34022.32,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21,101956_1005,12/14/2021," No ",1005_US,USD,101956_PB__4191,Yes,,,,Kali,VoiceAge AAC distr,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,,,,1005-K-217040-F1512,,,,,,,
+Invoice,AAC 12/14/21,102491_1005,12/14/2021," No ",1005_US,USD,102491_PB_ROY_7056,Yes,,,,Kali,LG AAC dist,AAC distribution
+Invoice Line,AAC 12/14/21,,AAC distribution,462.1,,,1005-K-217040-F1512,,,,,,08/01/2021,10/31/2021
+Invoice,AAC 12/14/21-A,112217_1005,12/14/2021," No ",1005_US,USD,112217_PB__9004,Yes,,,,Kali,JVC Kenwood AAC Comp Fund,AAC Comp Fund
+Invoice Line,AAC 12/14/21-A,,AAC Comp Fund,,,,1005-K-217040-F1512,,,,,,,
+Invoice,AAC 12/14/21-B,112217_1005,12/14/2021," No ",1005_US,USD,112217_PB__9004,Yes,,,,Kali,JVC Kenwood AAC Lit Fund,AAC Lit Fund
+Invoice Line,AAC 12/14/21-B,,AAC Lit Fund,15683.46,,,1005-K-217040-F1512,,,,,,,
